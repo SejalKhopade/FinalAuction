@@ -14,10 +14,5 @@ Tech Stack used :
 * Backend : NodeJS (ExpressJS)
 * Database : MongoDB Atlas
 
-Built by
-
-* 2019103014 Deekshith M
-* 2019103503 Ajitesh M
-* 2019103020 Hemanth D
 
 
